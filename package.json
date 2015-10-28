@@ -1,0 +1,16 @@
+{
+  "name": "integer-only-directive",
+  "version": "1.0.0",
+  "description": "",
+  "main": "game.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --watch server -e js,html server/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.4.6",
+    "express": "^4.13.3"
+  }
+}
